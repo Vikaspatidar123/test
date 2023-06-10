@@ -3,7 +3,7 @@ import styles from './styles.module.css'
 import Button from '@mui/material/Button';
 import {POPULAR} from '../configurations/popuar'
 import StarIcon from '@mui/icons-material/Star';
-import Plant from '../assets/plant.svg'
+// import Plant from '../assets/plant.svg'
 const Instructed=()=>{
     return<div className={styles.container}>
         <div className={styles.head}>Instructed Courses</div>
@@ -29,7 +29,7 @@ const Instructed=()=>{
                 </div>
             })}
         </div>
-           <Plant/>
+           {/* <Plant/> */}
     </div>
 }
 export default Instructed;
