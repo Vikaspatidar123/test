@@ -1,0 +1,39 @@
+.container{
+    background: rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 5px rgba(44, 117, 117, 0.5);
+    padding: 20px 70px;
+}
+
+.head{
+    font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+color: #004949;
+}
+.car{
+    margin-top: 16px;
+	cursor: pointer;
+}
+
+.filter{
+    display: flex;
+    justify-content: end;
+    gap: 8px;
+    align-items: baseline;
+}
+.dec{
+    display: flex;
+    font-weight: 700;
+    color: #178C8C;
+}
+.check{
+    font-weight: 700;
+    color: #178C8C;
+}
+.span{
+    font-weight: 700;
+    color: #184B4B;
+    margin-right: 5px;
+
+}

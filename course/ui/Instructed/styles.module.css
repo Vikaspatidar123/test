@@ -1,0 +1,115 @@
+.container{
+    margin: 3% 9%;
+}
+.head{
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    text-transform: capitalize;
+
+    color: #004949;
+
+    transform: rotate(-0.42deg);
+}
+
+.desc{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+color: #A29F9F;
+width: 50%;
+}
+
+.button{
+    background: #0E8585 !important;
+    height: 39px;
+}
+.box{
+    display: flex;
+    margin-top: 23px;
+    justify-content: space-between;
+}
+.meet{
+margin: 3% 0;
+font-weight: 700;
+font-size: 24px;
+
+color: #0E8585;
+}
+
+.card{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.name{
+    font-family: 'Inter';
+    font-style: italic;
+font-weight: 700;
+font-size: 15px;
+color: #868686;
+transform: rotate(-0.17deg)
+}
+
+.work{
+    padding: 5px 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: capitalize;
+    
+    color: #0A4A4A;
+    
+    transform: rotate(-0.17deg);
+}
+.courses{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    
+    color: #0E8585;
+    
+    transform: rotate(-0.17deg);
+}
+.star{
+    display: flex;
+    align-items: center;
+}
+.ratind{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-transform: capitalize;
+
+color: #0E8585;
+
+transform: rotate(-0.17deg);
+}
+
+.rate{
+padding-left: 2px;
+font-family: 'Istok Web';
+font-style: italic;
+font-weight: 700;
+font-size: 12px;
+line-height: 17px;
+text-transform: capitalize;
+
+color: #868686;
+}

@@ -1,0 +1,64 @@
+.container{
+    padding: 8px 25px;
+   
+}
+.course{
+    font-family: 'Kohinoor Bangla';
+    font-weight: 700;
+    font-size: 30px;
+    background: linear-gradient(181.05deg, #17ACAC 0.9%, #000000 294.55%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+.main{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+
+}
+.sub_heading{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+
+.last{
+    display: flex;
+    width: 25%;
+    justify-content: space-around;
+    align-items: center;
+}
+.title{
+    font-family: 'Inter' !important;
+    font-weight: 700;
+    font-size: 18px;
+    color: #444444;
+    cursor: pointer;
+    display: flex;
+}
+.line{
+    background: #178C8C;
+    border-radius: 2px;
+    width: auto;
+    height: 5px;
+    
+}
+.login{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration-line: underline;
+    color: #2C7575;
+    cursor: pointer;
+}
+.button{
+    background: #0E8585 !important;
+    border-radius: 10px;
+}
+
+.icon{
+    cursor: pointer;
+}

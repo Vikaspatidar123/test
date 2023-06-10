@@ -1,0 +1,151 @@
+
+.car{
+	cursor: pointer;
+    background: #F8F5F5;
+box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.25);
+}
+.card{
+    background: #F8F8F8;
+    box-shadow: 1px 4px 5px rgba(0, 0, 0, 0.25);
+}
+.tag_container{
+	z-index: 1;
+	position: absolute;
+	top: 0;
+
+		left: 0;
+	
+}
+
+.container_tag{
+	background: red;
+	border-radius: 4px;
+	padding: 4px 10px;
+	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+	
+}
+.padding_left {
+    font-weight: 700;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+.card_dec{
+    font-family: 'Istok Web';
+    font-style: normal;
+}
+.dur{
+padding-bottom:2px ;
+font-weight: 700;
+font-size: 16px;
+}
+
+.title{
+font-weight: 700;
+font-size: 20px;
+color: #0A4A4A;
+padding-bottom: 4px;
+}
+.changes{
+    font-weight: 700;
+font-size: 16px;
+line-height: 23px;
+
+text-decoration-line: line-through;
+text-transform: capitalize;
+
+color: #868686;
+}
+.charg{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 23px;
+    color:   #CC0000;
+}
+.free{
+    font-weight: 700;
+        font-size: 16px;
+        line-height: 23px;
+        color: #CC0000;
+        margin-left: 5px;
+}
+.ret{
+    font-weight: 700;
+font-size: 12px;
+line-height: 17px;
+text-transform: capitalize;
+margin-left: 5px;
+color: #868686;
+}
+.reating{
+    display: flex;
+    align-items: center;
+}
+
+.button{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+.button_txt{
+    background: #FFFFFF;
+border: 1px solid #178C8C;
+border-radius: 5px;
+color: #178C8C;
+}
+.button_txt:hover{
+    background: #FFFFFF;
+    border: 1px solid #178C8C;
+}
+
+.view{
+    font-family: 'Istok Web';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+text-decoration-line: underline;
+color: #007E7E;
+margin: 10px 0;
+display: flex;
+justify-content: center;
+}
+
+.main_card{
+    width: 69% !important;
+
+}
+.icons{
+    padding: 10px 0;
+}
+.top_card{
+    display: flex;
+    justify-content: space-between;
+}
+
+.add_icon{
+    width: 34px;
+    height: 33px;
+    padding: 5px;
+    border-radius: 50px;
+    background: #178C8C;
+}
+
+.done{
+    background: #C70000
+}
+
+.addone{
+    font-family: 'Istok Web';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 14px;
+text-align: center;
+}
+.add{
+    color: #BFBFBF !important;
+}
+
+.but{
+    background: #0E8585 !important;
+}

@@ -1,0 +1,48 @@
+
+.input{
+    box-sizing: border-box;
+    background: rgba(255, 255, 255, 0.09);
+    border: 2px solid #339C9C;
+    border-radius: 10px;
+    width: 850px;
+    height: 39px;
+}
+
+.input_box{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    margin-top: 30px;
+   
+}
+.des{
+width: 688px;
+height: 72px;
+left: 411px;
+top: 172px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+text-transform: capitalize;
+
+color: #007E7E;
+}
+
+.fot{
+    background: rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 5px rgba(44, 117, 117, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.5) !important;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.des_box{
+    justify-content: center;
+    display: flex;
+    margin-top: 2%;
+    
+}
