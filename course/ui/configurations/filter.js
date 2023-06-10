@@ -69,6 +69,21 @@ export const CARD=[
             />,
             rate:'43,435',
             button_text:'Enroll Now',
+        } ,{
+            type:'Popular',
+            image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe16otpX-vCBLmD1ATCu21KBF2kxYYKs2BFQ&usqp=CAU",
+            heading:'Communication', 
+            desc:'Duration : 50mins',
+            price:'$18.90',
+            free:false,
+            icon:<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Khan_Academy_logo_%282018%29.svg/1200px-Khan_Academy_logo_%282018%29.svg.png' alt="" width={100} height={15}/>,
+            rating:<Rating
+            name="simple-controlled"
+            value={4}
+            />,
+            rate:'43,435',
+            button_text:'Buy Now',
+            addon:'Added'
         } 
     ]
     },{

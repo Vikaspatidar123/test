@@ -5,7 +5,6 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 
 export const StyledCarousel = styled(Slider)`
-	cursor: pointer;
 	padding-left: 171px;
 	padding-top:40px;
 `;

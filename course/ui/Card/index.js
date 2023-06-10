@@ -8,14 +8,17 @@ import {Container,StyledCarousel} from './styles'
 import {CARD} from '../configurations/filter'
 import AddIcon from '@mui/icons-material/Add';
 import DoneIcon from '@mui/icons-material/Done';
+import NavigateNextIcon from '@mui/icons-material/NavigateNext';
 const settings = {
     dots: false,
-    infinite: false,
-    speed: 500,
+    infinite: true,
     slidesToShow: 3,
     slidesToScroll: 1,
-    rtl: true,
     autoplay: true,
+    speed: 2000,
+    autoplaySpeed: 5000,
+    nextArrow: <NavigateNextIcon />,
+    prevArrow: <NavigateNextIcon />
 
   };
 

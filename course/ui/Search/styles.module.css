@@ -17,6 +17,13 @@
     margin-top: 30px;
    
 }
+.main_box{
+    height: 500px;
+    background-image: url('https://cdn2.vectorstock.com/i/1000x1000/46/96/business-professional-work-team-meeting-office-vector-10154696.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
 .des{
 width: 688px;
 height: 72px;
@@ -45,4 +52,9 @@ color: #007E7E;
     display: flex;
     margin-top: 2%;
     
+}
+
+.button{
+    background: #0E8585 !important;
+    color: #fff;
 }

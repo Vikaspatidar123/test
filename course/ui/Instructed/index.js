@@ -29,7 +29,7 @@ const Instructed=()=>{
                 </div>
             })}
         </div>
-           {/* <Plant/> */}
+        <div className={styles.plant}/>
     </div>
 }
 export default Instructed;
